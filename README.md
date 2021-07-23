@@ -1,4 +1,4 @@
-# Getting Started with npm install
+# Getting Started with yarn add or npm install
 
 Use yarn add in your console for getting the folder 'node_modules' and start coding.
 
@@ -11,9 +11,9 @@ In the project directory, you can run:
 ### `yarn dev`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:8800](http://localhost:8800) to view it in the browser.
 
 ### `yarn start`
 
 Runs the app.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:8800](http://localhost:8800) to view it in the browser.
