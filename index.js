@@ -10,8 +10,11 @@ const movieRoute = require("./routes/movies");
 const listsRoute = require("./routes/lists");
 require("./database");
 
+const cors = require("cors");
+
 // Middlewares
 app.use(express.json());
+app.use(cors());
 
 // Routes
 app.use("/api/auth", authRoute);
